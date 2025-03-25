@@ -1,0 +1,1 @@
+# django_configurator_v1
